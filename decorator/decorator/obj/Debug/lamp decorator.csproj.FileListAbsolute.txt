@@ -1,0 +1,7 @@
+C:\Users\User\Desktop\burger decorator\burger decorator\obj\Debug\lamp decorator.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\burger decorator\burger decorator\obj\Debug\burger_decorator.Form1.resources
+C:\Users\User\Desktop\burger decorator\burger decorator\obj\Debug\burger_decorator.Properties.Resources.resources
+C:\Users\User\Desktop\burger decorator\burger decorator\obj\Debug\lamp decorator.csproj.GenerateResource.cache
+C:\Users\User\Desktop\burger decorator\burger decorator\obj\Debug\lamp decorator.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\burger decorator\burger decorator\obj\Debug\burger decorator.exe
+C:\Users\User\Desktop\burger decorator\burger decorator\obj\Debug\burger decorator.pdb
